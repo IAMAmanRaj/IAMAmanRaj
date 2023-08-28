@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **imamanraj87@gmail.com**
 
-- ⚡ Fun fact **Sometimes i hate this thing(Dev) , Sometimes i love it !**
+- ⚡ Fun fact **Sometimes i hate this thing(Dev) , but sometimes i love it !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
