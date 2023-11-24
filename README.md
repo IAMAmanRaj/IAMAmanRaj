@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Aman Raj</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">A passionate Web Developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamamanraj" alt="iamamanraj" /></a> </p>
 
-- 🔭 I’m currently working on **Minor JS Projects Built through react**
+- 🔭 I’m currently working on **Matering Core JS Concepts And React Framework**
 
-- 🌱 I’m currently learning **Javascript , React , Tailwind , Node and much more**
+- 🌱 I’m currently learning **Javascript , React js , Tailwind , Node and much more**
 
-- 💬 Ask me about **React , Vite , Javascript**
+- 💬 Ask me about **React , Vite , Javascript or Anything Web [ I'll be happy if I could answer your query**
 
 - 📫 How to reach me **imamanraj87@gmail.com**
 
-- ⚡ Fun fact **Sometimes i hate this thing(Dev) , but sometimes i love it !**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Let's Connect:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aman raj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman raj" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/coded_human001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="coded_human001" height="30" width="40" /></a>
