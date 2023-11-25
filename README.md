@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamamanraj" alt="iamamanraj" /></a> </p>
 
-- 🔭 I’m currently working on **Matering Core JS Concepts And React Framework**
+- 🔭 I’m currently **Improving my knowledge about Core JS Concepts And I am also learning React Js**
 
 - 🌱 I’m currently learning **Javascript , React js , Tailwind , Node and much more**
 
