@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Javascript , React js , Tailwind , Node and much more**
 
-- 💬 Ask me about **React , Vite , Javascript or Anything Web [ I'll be happy if I could answer your query**
+- 💬 Ask me about **React JS , Next JS , Javascript or Anything Web [ I'll be happy if I could answer your query ]
 
 - 📫 How to reach me **imamanraj87@gmail.com**
 
