@@ -3,11 +3,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamamanraj" alt="iamamanraj" /></a> </p>
 
-- 🔭 **Diving into Core JS Concepts and React Js**
+- 🔭 **Diving into Backend**
 
-- 🌱 I’m currently learning **Javascript , React js , Tailwind , Node and much more**
+- 🌱 I’m currently learning **MERN , Redux/Recoil and much more**
 
 - 💬 Ask me about **React JS , Next JS , Javascript or Anything Web [ I'll be happy if I could answer your query ]
+- Fun fact : I love spending time with Errors and resolving them ;)
 
 - 📫 How to reach me **imamanraj87@gmail.com**
 
