@@ -5,7 +5,7 @@
 
 - 🔭 **Diving into Backend**
 
-- 🌱 I’m currently learning **MERN , Redux/Recoil and much more**
+- 🌱 I’m currently learning **NEXT JS , Web RTCs and much more**
 
 - 💬 Ask me about **React JS , Next JS , Javascript or Anything Web [ I'll be happy if I could answer your query ]
 - Fun fact : I love spending time with Errors and resolving them ;)
