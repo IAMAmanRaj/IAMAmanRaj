@@ -2,12 +2,15 @@
 <h3 align="center">A passionate Web Developer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamamanraj" alt="iamamanraj" /></a> </p>
+
 - 👨‍💻 Portfolio Website : https://portfolio-amanraj.onrender.com/ 
+
 - 🔭 **Diving into Backend**
 
 - 🌱 I’m currently learning about **NEXT JS as a framework , NEST JS for Backend  , ORMs like Prisma/Drizzle and much more**
 
 - 💬 Ask me about **React JS , Next JS , Javascript or Anything Web [ I'll be happy if I could answer your query ]
+
 - Fun fact : I love spending time with Errors and resolving them ;)
 
 - 📫 How to reach me **imamanraj87@gmail.com**
