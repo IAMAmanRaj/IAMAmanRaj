@@ -4,8 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamamanraj" alt="iamamanraj" /></a> </p>
 
-- 👨‍💻 Portfolio Website [ Vercel ] : https://portfolio-01-kohl-eta.vercel.app/
-- 👨‍💻 Portfolio Website [ Render ] : https://portfolio-amanraj.onrender.com/  You can support me here :) 
+- 👨‍💻 Portfolio Website [ Vercel ] : https://portfolio-01-kohl-eta.vercel.app/  -You can support me here :) 
 - 🔭 **Diving into Backend**
 
 - 🌱 I’m currently learning about **NEXT JS as a framework , NEST JS for Backend  , ORMs like Prisma/Drizzle and much more**
