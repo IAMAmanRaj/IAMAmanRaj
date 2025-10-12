@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aman Raj</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
-<h3 align="center">Developer @<a href="https://www.linkedin.com/company/skdiv-inc/">SKDIV.Inc</a> 💼 </h3>
+<!-- <h3 align="center">Developer @<a href="https://www.linkedin.com/company/skdiv-inc/">SKDIV.Inc</a> 💼 </h3> -->
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamamanraj" alt="iamamanraj" /></a> </p>
 
