@@ -7,7 +7,7 @@
 - 👨‍💻 Portfolio Website [ Vercel ] : https://portfolio-01-kohl-eta.vercel.app/  -You can support me here :) 
 - 🔭 **Diving into Dev**
 
-- 🌱 I’m currently learning about **Scalable Backend Systems, EDA & patters, Web Sockets and Web RTCs, Pub Subs, Redis, Docker  and much more**
+- 🌱 Been Writing **YAML FILES LATELY....and listening to brooklyn baby**
 
 - 💬 Ask me about **Js, Ts , React, Sockets or Anything Web [ I'll be happy if I could answer your query ]
 
