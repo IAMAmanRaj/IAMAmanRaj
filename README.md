@@ -1,19 +1,19 @@
-<h1 align="center">Hi 👋, I'm Aman Raj</h1>
-<h3 align="center">A passionate Web Developer from India</h3>
+<h1 align="center">Hi, I'm Aman</h1>
+<h3 align="center">passionate about frontend</h3>
 <!-- <h3 align="center">Developer @<a href="https://www.linkedin.com/company/skdiv-inc/">SKDIV.Inc</a> 💼 </h3> -->
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamamanraj" alt="iamamanraj" /></a> </p> -->
 
-- 👨‍💻 Portfolio Website [ Vercel ] : https://portfolio-01-kohl-eta.vercel.app/  -You can support me here :) 
-- 🔭 **Diving into Dev**
+- 👨‍💻 Portfolio Website [ Vercel ] : [https://portfolio-01-kohl-eta.vercel.app/](https://i-am-raj-dev.vercel.app/)
+- 🔭 **So...**
 
-- 🌱 Been Writing **YAML FILES LATELY....and listening to brooklyn baby**
+- 🌱 React.js , Next.js along with JS/TS : My strong areas.
 
-- 💬 Ask me about **Js, Ts , React, Sockets or Anything Web [ I'll be happy if I could answer your query ]
+- 💬 Sometimes, working on side projects/ideas for fun.
 
-- my love language is quality time with errors ❤️‍🩹
+- ❤️‍🩹 My love language is quality time with errors
 
-- 📫 How to reach me **imamanraj87@gmail.com**
+- 📫 **imamanraj87@gmail.com** - feel free to reach me out.
 
 <h3 align="left">Let's Connect:</h3>
 <p align="left">
