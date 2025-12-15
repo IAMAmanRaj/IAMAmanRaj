@@ -4,7 +4,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamamanraj" alt="iamamanraj" /></a> </p> -->
 
-- 👨‍💻 Portfolio Website [ Vercel ] : [ Portfolio ](https://i-am-raj-dev.vercel.app/)
+- 👨‍💻 Portfolio Website : [ Portfolio ](https://i-am-raj-dev.vercel.app/)
 - 🔭 **So...**
 
 - 🌱 React.js , Next.js along with JS/TS : My strong areas.
