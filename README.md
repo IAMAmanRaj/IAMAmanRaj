@@ -4,8 +4,8 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamamanraj" alt="iamamanraj" /></a> </p> -->
 
-- 👨‍💻 Portfolio Website : [ Portfolio ](https://i-am-raj-dev.vercel.app/)
-- 🔭 **So...**
+- 👨‍💻 [ Portfolio ](https://i-am-raj-dev.vercel.app/)
+- 🔭 **So...i'm deep diving into Frontend/UI-UX. Not just to land up at a better job, but because I love Frontend Engineering.**
 
 - 🌱 React.js , Next.js along with JS/TS : My strong areas.
 
