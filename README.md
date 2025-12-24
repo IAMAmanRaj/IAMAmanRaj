@@ -7,7 +7,7 @@
 - 👨‍💻 [ Portfolio ](https://i-am-raj-dev.vercel.app/)
 - 🔭 **These days, I'm learning more about Frontend Engineering and things related to Web Optimization.**
 
-- 🌱 Busy studying React/Next + Javscript.
+- 🌱 Busy studying React/Next + Javascript.
 
 - 💬 Sometimes, working on side projects/ideas for fun.
 
