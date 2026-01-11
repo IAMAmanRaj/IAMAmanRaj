@@ -81,10 +81,6 @@
   
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamamanraj&show_icons=true&locale=en&layout=compact" alt="iamamanraj" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iamamanraj&" alt="iamamanraj" /></p>
-
 ![](https://komarev.com/ghpvc/?username=iamamanraj&abbreviated=true&style=plastic)
 
 - That's all. 
