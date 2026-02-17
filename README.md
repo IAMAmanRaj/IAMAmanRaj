@@ -6,11 +6,11 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamamanraj" alt="iamamanraj" /></a> </p> -->
 
 - 👨‍💻 [ Portfolio ](https://i-am-raj-dev.vercel.app/)
-- 🔭 **These days, I'm learning more about Frontend Engineering and things related to Web Optimization.**
+- 🔭 **These days, I'm deep diving into Javascript & Frontend Engineering.  I am also exploring Web Optimization techniques.**
 
-- 🌱 Busy studying React/Next + Javascript.
+- 🌱 Busy studying advanced React/Next + Javascript concepts.
 
-- 💬 Sometimes, working on side projects/ideas for fun.
+- 💬 Sometimes, working on a threejs project or some side projects/ideas for fun. 
 
 - ❤️‍🩹 My love language is quality time with errors. 
 
