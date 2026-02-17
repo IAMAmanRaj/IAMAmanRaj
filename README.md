@@ -6,7 +6,7 @@
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamamanraj" alt="iamamanraj" /></a> </p> -->
 
 - 👨‍💻 [ Portfolio ](https://i-am-raj-dev.vercel.app/)
-- 🔭 **These days, I'm deep diving into Javascript & Frontend Engineering.  I am also exploring Web Optimization techniques.**
+- 🔭 **Lately, I've been deep diving into Javascript & Frontend Engineering.  I am also exploring Web Optimization techniques.**
 
 - 🌱 Busy studying advanced React/Next + Javascript concepts.
 
